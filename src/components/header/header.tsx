@@ -26,7 +26,6 @@ const Header = ({ onSearch }: HeaderProps) => {
           className="search-input"
         />
         <button type="submit" className="search-button">Search</button>
-        <button type="button" className="surprise-button">Surprise Me!</button>
       </form>
     </header>
   );
