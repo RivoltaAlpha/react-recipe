@@ -4,7 +4,7 @@ import FoodGrid from './components/cards/foodGrid';
 import { FoodItem } from './types/types';
 import './App.css';
 
-const API_KEY = '3d9ada554378454b809e082c3f3bcd5e';
+const API_KEY = 'de3201c7efbd493fad218796c6bf7365';
 
 const App = () => {
   const [foods, setFoods] = useState<FoodItem[]>([]);
